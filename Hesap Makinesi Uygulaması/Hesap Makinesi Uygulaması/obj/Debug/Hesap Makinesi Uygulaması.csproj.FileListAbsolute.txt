@@ -1,0 +1,13 @@
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\bin\Debug\Hesap Makinesi Uygulaması.exe.config
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\bin\Debug\Hesap Makinesi Uygulaması.exe
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\bin\Debug\Hesap Makinesi Uygulaması.pdb
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\obj\Debug\Hesap Makinesi Uygulaması.csprojAssemblyReference.cache
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\obj\Debug\Hesap_Makinesi_Uygulaması.Form1.resources
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\obj\Debug\Hesap_Makinesi_Uygulaması.Properties.Resources.resources
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\obj\Debug\Hesap Makinesi Uygulaması.csproj.GenerateResource.cache
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\obj\Debug\Hesap Makinesi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\obj\Debug\Hesap Makinesi Uygulaması.exe
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\obj\Debug\Hesap Makinesi Uygulaması.pdb
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\bin\Debug\agq\Hesap Makinesi Uygulaması.resources.dll
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\obj\Debug\Hesap_Makinesi_Uygulaması.Form1.agq.resources
+C:\Users\SAMET\Desktop\c++\Hesap Makinesi Uygulaması\Hesap Makinesi Uygulaması\obj\Debug\agq\Hesap Makinesi Uygulaması.resources.dll
